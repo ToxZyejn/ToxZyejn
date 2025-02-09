@@ -1,6 +1,7 @@
 ### Привет! 👋 Меня зовут ToxZyejn
 🚀 Я AQA на Python и разрабатываю Telegram-ботов.
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
 ---
 
 ### 🔧 О себе
